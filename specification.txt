@@ -1,0 +1,8 @@
+Distinct html tags: h1 h2 a div img p nav br style script
+Bootstrap: bootstrap's row and no gutters class, which is used in part to help implement a separation between the left and right
+side of the webpage, which allows for the right side to have a infinite scrolling menu implemented.
+Javascript: javascript is used to implement the infinite scrolling menu to see the list of CS50 projects that I have completed under the
+projects tab.
+CSS selectors (not all): intro, intro2, img, button, buttonprojects, disclaimer, content, container
+CSS properties (not all): display, position, border-radius, top, left, transform, transition, background-color, color,
+font-size, font-weight

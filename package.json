@@ -1,0 +1,15 @@
+{
+  "name": "nicholas-lee-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website"
+  ],
+  "author": "Nicholas Lee",
+  "license": "MIT"
+}
